@@ -1,11 +1,10 @@
 ## Welcome to GitHub Pages
 
-
-![picture](https://raw.githubusercontent.com/hjloper/Github/main/images/Kiwi_20160226_234851_1.jpg)
-
 You can use the [editor on GitHub](https://github.com/hjloper/Github/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+![picture](https://raw.githubusercontent.com/hjloper/Github/main/images/Kiwi_20160226_234851_1.jpg)
 
 ### Markdown
 
